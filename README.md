@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Hi there! 👋🏻 This is a repo that I've worked on for the [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes) from [The Odin Project](https://www.theodinproject.com/). It basically a list of recipes for my all time favourite dishes! 🤤 🍛
+Hi there! 👋🏻 This is a repo that I've worked on for the [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes) from [The Odin Project](https://www.theodinproject.com/). It is basically a list of recipes for my all time favourite dishes! 🤤 🍛
 
 I've got the recipes from here:
 
