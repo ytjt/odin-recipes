@@ -11,3 +11,5 @@ I've got the recipes from here:
 3. [Tomyam Fried Rice](https://www.maggi.my/en/recipes/tom-yam-fried-rice/)
 
 By doing the project, I was able to apply the knowledge I have learned from the HTML Foundations mainly about _elements and tags_, _lists_, and also _links and images_.
+
+You can preview the page [here](https://ytjt.github.io/odin-recipes/) 👈🏻
