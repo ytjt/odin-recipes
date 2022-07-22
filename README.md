@@ -12,4 +12,4 @@ I've got the recipes from here:
 
 By doing the project, I was able to apply the knowledge I have learned from the HTML Foundations mainly about _elements and tags_, _lists_, and also _links and images_.
 
-You can preview the page [here](https://ytjt.github.io/odin-recipes/) 👈🏻
+You can preview my work [here](https://ytjt.github.io/odin-recipes/) 👈🏻
